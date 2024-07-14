@@ -1,0 +1,15 @@
+﻿Following data is valid as of 20240714164814 (Year/Month/Day/Hour/Minute/Second)
+
+
+First Bank Card,Transaction Type,Date Posted, Transaction Amount,Description
+
+
+'6007620712733055',DEBIT,20240603,-1374.47,[DS]BANK         MTG/HYP                                                    
+'6007620712733055',DEBIT,20240603,-231.97,[DS]STRATA FEE                                                   
+'6007620712733055',DEBIT,20240610,-80.0,[CW]INTERAC ETRNSFR SENT     BROTHER     
+'6007620712733055',CREDIT,20240611,521.3,[DN]LIFESTYL MSP/DIV                                                    
+'6007620712733055',DEBIT,20240620,-200.0,[IB]           2564 SHAUGHNES                                                  
+'6007620712733055',DEBIT,20240624,-1500.0,[CW] TF 000123456789                                                    
+'6007620712733055',DEBIT,20240625,-1167.36,[CW]CITY TAX                                                             
+'6007620712733055',DEBIT,20240628,-30.95,[SC]PREMIUM PLAN                                                               
+'6007620712733055',CREDIT,20240628,30.95,[SC]FULL PLAN FEE REBATE                                                              
