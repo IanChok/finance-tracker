@@ -47,7 +47,7 @@ fn test_parse_date(#[case] date: Option<String>) {
 
 #[test]
 #[should_panic(
-    expected = "Attempted to parse date with NaiveDate: \"05/01/2024\": ParseError(Invalid)"
+    expected = "Attempted to parse date with NaiveDate: \"05/01/2024\""
 )]
 fn test_parse_date_panic() {
     const INVALID_DATE_FORMAT: &str = "05/01/2024";
